@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="app_preview.png" alt="VisionAI Face Guard Web Interface" width="100%">
+  <img src="streamlit.png" alt="VisionAI Face Guard Web Interface" width="100%">
   <p><i>The premium Streamlit UI demonstrating real-time face detection and blurring</i></p>
 </div>
 
@@ -22,6 +22,15 @@
 - **Premium User Interface**: A minimalist, "Emoji-Free", glassmorphic Streamlit interface using custom SVG icons and Inter typography.
 - **Sample Predictions**: One-click sample image testing for quick demonstrations.
 - **Secure Processing**: Runs inference instantly; images are processed in-memory and never stored.
+
+---
+
+## 🚀 How to Use
+1. **Upload an Image**: Drag and drop or click to upload your image in the **Input Source** section.
+2. **Select Sample**: Alternatively, click one of the pre-loaded **Sample Images** for a quick preview.
+3. **Tune Settings**: Adjust the **Detection Confidence** and **Blur Intensity** sliders to get the perfect result.
+4. **Run Detection**: Click the **"Run Detection & Blur"** button to process the image.
+5. **View Result**: Check the **Output Preview** to see the anonymized image and detection metrics.
 
 ---
 
