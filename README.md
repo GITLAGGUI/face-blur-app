@@ -7,6 +7,13 @@
 
 **VisionAI Face Guard** is a highly accurate, automated privacy-focused web application that detects faces in images and automatically applies an intelligent blur to protect identities. Built with a custom-trained **YOLOv8 neural network**, it offers high precision combined with a modern, glassmorphic UI.
 
+<br>
+
+<div align="center">
+  <img src="app_preview.png" alt="VisionAI Face Guard Web Interface" width="100%">
+  <p><i>The premium Streamlit UI demonstrating real-time face detection and blurring</i></p>
+</div>
+
 ---
 
 ## ✨ Features
