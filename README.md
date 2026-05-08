@@ -25,17 +25,16 @@
 
 ---
 
-## 📸 Application Preview
-Here are some of the sample images used for detecting and blurring faces in the application:
+## 📸 Training Results & Preview
+These images showcase the training results and the model's performance in detecting and blurring faces accurately:
 
-<p float="left">
-  <img src="sample_face.jpg" width="24%" />
-  <img src="sample_face1.jpg" width="24%" />
-  <img src="sample_face2.jpg" width="24%" />
-  <img src="sample_face3.jpg" width="24%" />
+<p align="center">
+  <img src="train_image.png" width="32%" />
+  <img src="train_image1.png" width="32%" />
+  <img src="train_image2.png" width="32%" />
 </p>
 
-*Faces detected in these images are automatically anonymized based on user-defined confidence thresholds.*
+*The custom-trained YOLOv8 model ensures high accuracy in various lighting conditions and angles.*
 
 ---
 
